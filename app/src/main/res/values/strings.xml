@@ -2,4 +2,10 @@
     <string name="app_name">TinderTec</string>
     <string name="descriptionsplashimage">Initial image</string>
     <string name="title">LinkMeet</string>
+    <string name="mainbackground">Main Background</string>
+    <string name="emaillogin">Ingresa tu correo</string>
+    <string name="password">Ingresa tu contraseña</string>
+    <string name="iniciarSesion">Inicia Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="recuerdame">Recuérdame</string>
 </resources>
